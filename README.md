@@ -12,7 +12,7 @@
 - SQL Server
 - Learning AWS
 - Learning Docker
-- Learning Django
+- Learning Github Actions
 
 <!--
 [![Alec's github stats](https://github-readme-stats.vercel.app/api?username=Alec-Gillis&theme=blue-green)](https://github.com/Alec-Gillis/github-readme-stats)
