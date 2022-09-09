@@ -7,12 +7,12 @@
 - LinkedIn - [Alec Gillis](https://www.linkedin.com/in/alecgillis)
 
 ### 🛠️ Current Work
-- C# / .NET
-- Angular
-- SQL Server
+- Django
+- React
+- PostgreSQL
 - Learning AWS
 - Learning Docker
-- Learning Github Actions
+- Learning ElasticSearch
 
 <!--
 [![Alec's github stats](https://github-readme-stats.vercel.app/api?username=Alec-Gillis&theme=blue-green)](https://github.com/Alec-Gillis/github-readme-stats)
